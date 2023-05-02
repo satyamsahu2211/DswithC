@@ -10,7 +10,7 @@ for(i=1;i<n;i++)
 }
 printf("factorial =%d\n",fact);
 }
-int fibonacci(int);
+int fibonacci(int);//by recursion
 int main()
 {
     int n,i=0,c;
